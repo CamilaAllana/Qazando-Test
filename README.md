@@ -1,6 +1,6 @@
 # Qazando Shop Automated Testing Project
 
-##Overview
+## Overview
 This project contains a suite of automated tests for the Qazando Shop website. The tests are designed to validate the functionalities of the site, ensuring a smooth and reliable user experience. The automation framework uses Cypress.
 
 ## Features
